@@ -1,9 +1,14 @@
 # Programación para niños
 ## Open space en WecodeFest 2019
 
+
+
 **Lugar**: wecodefest 2019 - Escuela Ing. Informática - Aula 101
+
 **Día**: Sábado 23 de febrero de 2019
+
 **Hora**: 13:00h
+
 **Asistentes**: 25 personas
 
 ---
