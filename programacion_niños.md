@@ -11,6 +11,13 @@
 
 **Asistentes**: 25 personas
 
++ Carlos @carlrue
++ Pepe (@pepellou)
++ Rodri (@rRodrigoBBtw)
++ Willy (guillermo_ig)
++ Jose Ramón
++ Ivan (irodgal)
+
 ---
 El objetivo del debate es hablar e intercambiar ideas sobre como incentivar a los niños (nuestros hijos, sobrinos, etc) al mundo de la programación.
 
